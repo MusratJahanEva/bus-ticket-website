@@ -1,0 +1,9 @@
+/* google fonts  */
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+#ticket-position {
+    position: relative;
+    bottom: 70px;
+}
